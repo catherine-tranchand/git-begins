@@ -5,3 +5,5 @@ git add
 git commit -m
 git push -u origin main
 git pull
+git branch + nom d'une branch
+git checkout + nom d'une branch
